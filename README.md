@@ -27,4 +27,7 @@ I believe in the power of community and the sharing of knowledge, so feel free t
 ## Current Projects
 
 - [HTML site shop](https://sam-hor.github.io/shop_1_trial/)
+- [Telegram bot with OpenAi] (@Sam4it_bot)
+- [Telegram bot just for fun] (@Zoobarev_bot)
 
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-hor&theme=github_dark_dimmed&show_icons=true)
